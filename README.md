@@ -1,12 +1,17 @@
 
-__Hi everyone :wave: My mame is Thao Nguyen__
+## Hi everyone :wave: My mame is Thao Nguyen
 
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
+### ReDI School Student
+
+- :four_leaf_clover: Looking for an IT job as Data Analyst or Logistic Planer 
+- :v: I'm attending now Introduction to Computer Science course 
+- :seedling: Learning Python, Html, Css
+- :office: Prefer to work at IT Companies in Munich
+- :page_facing_up: My current projects are available at [My GitHub account]
+-
   i18n with plurals support and easy syntax.
   
-  
+  sfsas
 ## Hello everyone !!!
 ## My name is Ngoc Phuong Thao NGUYEN. You can call me as Thao Nguyen.
 ## Welcome to my GitHub and have a nice day!!!
