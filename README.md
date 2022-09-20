@@ -1,3 +1,12 @@
+
+__Hi everyone :wave: My mame is Thao Nguyen__
+
+- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
+  resize in browser.
+- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
+  i18n with plurals support and easy syntax.
+  
+  
 ## Hello everyone !!!
 ## My name is Ngoc Phuong Thao NGUYEN. You can call me as Thao Nguyen.
 ## Welcome to my GitHub and have a nice day!!!
