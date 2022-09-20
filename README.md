@@ -8,16 +8,13 @@
 - :seedling: Learning Python, Html, Css
 - :office: Prefer to work at IT Companies in Munich
 - :page_facing_up: My current projects are available at [My GitHub account]
--
-  i18n with plurals support and easy syntax.
-  
-  sfsas
-## Hello everyone !!!
-## My name is Ngoc Phuong Thao NGUYEN. You can call me as Thao Nguyen.
-## Welcome to my GitHub and have a nice day!!!
+- :phone: Contact me at 
 
-## <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+Connect with me 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ngoc-phuong-thao-nguyen-004a564a/))
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+  
+  
+ 
