@@ -15,7 +15,7 @@
 __[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/thao-nguyen-004a564a/))__
 &nbsp;
 __[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/NgocPhuongThaoNguyen)__
-&nbsp; &nbsp;__[Facebook](https://www.facebook.com/nguyen.n.thao.77/)__
+&nbsp; 
   
   
  
