@@ -1,11 +1,11 @@
 
 ## Hi everyone :wave: My mame is Thao Nguyen
 
-### ReDI School Student
+### Data Scientist Student
 
-- :four_leaf_clover: Looking for an IT job as Data Analyst or Logistic Engineer 
-- :v: I've just graduated the course Introduction to Computer Science course 
-- :seedling: Learning Python, Html, Css
+- :four_leaf_clover: Looking for an IT job as Data Scientist or Data Analytics in both IT and Logistics fields  
+- :v: I'm learning Data Scientist now and I have very much interest in Data Engineering, Data Analytics, Machine Learning and Deep Learning
+- :seedling: Learning Python, SQL, HTML, CSS
 - :office: Prefer to work at IT or Logistics Companies in Munich
 - :page_facing_up: My current projects are available at [My GitHub account]
 - :phone: Contact me at LinkedIn 
